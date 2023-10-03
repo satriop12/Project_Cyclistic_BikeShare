@@ -7,4 +7,4 @@ Identifying the usage trends for Q1 2023,
 Deciding if more bicycles are needed and at which stations.
 
 
-To see the presentation and the visualization, please download the file.
+To see the presentation, please download the file.
