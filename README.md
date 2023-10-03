@@ -2,9 +2,9 @@ Navigating Success for Cyclistic Bike-Share. Preparing Datasets using Python, Pr
 
 This project aims to:
 
-Determining which member type should be the main focus
-Identifying the usage trends for Q1 2023
-Deciding if more bicycles are needed and at which stations
+Determining which member type should be the main focus,
+Identifying the usage trends for Q1 2023,
+Deciding if more bicycles are needed and at which stations.
 
 
 To see the presentation and the visualization, please download the file.
