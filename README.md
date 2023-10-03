@@ -1,4 +1,4 @@
-Navigating Success for Cyclistic Bike-Share. Preparing Datasets using Python, Processing Datasets using SQLite3. Followed by data visualization with Tableau and Share the Analysis with PowerPoint.
+Navigating Success for Cyclistic Bike-Share. Preparing Datasets using Python, Processing and Analyzing Datasets using SQLite3. Followed by data visualization with Tableau and Share the Analysis with PowerPoint.
 
 This project aims to:
 
