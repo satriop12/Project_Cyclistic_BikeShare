@@ -1,3 +1,4 @@
+#Merge 3 csv file and putting it into database
 import sqlite3
 import pandas as pd
 
