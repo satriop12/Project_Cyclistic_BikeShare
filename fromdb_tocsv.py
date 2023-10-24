@@ -1,3 +1,5 @@
+#importing data base to csv for tableau dashboard visualization
+
 import sqlite3
 import pandas as pd
 
